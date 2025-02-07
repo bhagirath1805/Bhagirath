@@ -1,1 +1,1 @@
-# Bhagirath
+This is a mini project given by EduNet foundation during their event Techsaksham.This is a Fitness Tracker done by using python program designed to help users monitor and manage their fitness activities, track progress, and set fitness goals. The program can collect and store data on various metrics such as calories burned, workout duration, and more.
